@@ -299,7 +299,7 @@ Table of Contents
 
 * [BrowserStack](https://www.browserstack.com/github-students) [FREE] - Test your web apps with BrowserStack's Real Device Cloud, which gives you instant access to 2000+ browsers and real iOS and Android devices.Free Automate Mobile Plan for 1 parallel and 1 user for 1 year.
 
-* [LambdaTest](https://education.github.com/pack/redeem/lambdatest) [FREE] - Perform automated and live interactive cross browser testing on 2000+ real browsers and operating systems online.Free LambdaTest Live Plan for one year.
+* [LambdaTest](https://education.github.com/pack/redeem/lambdatest) [FREE] - Perform automated and live interactive cross browser testing on 3000+ real browsers and operating systems online.Free LambdaTest Live Plan for one year.
 
 * [SOFY](https://education.github.com/pack/redeem/sofy) [FREE] - SOFY automates your software testing, uses machine learning to create tests, suggests test scenarios based on product changes, customer usage data and runs at scale.6 months of free website and mobile app testing.
 
